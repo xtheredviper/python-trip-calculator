@@ -3,23 +3,23 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Automation](https://img.shields.io/badge/Focus-Automation-blue?style=for-the-badge)
 
-## 📋 Sobre o Projeto
-Este script em Python foi desenvolvido para facilitar o planejamento financeiro de viagens rodoviárias. Através de uma interface de terminal amigável, o programa solicita dados essenciais (distância, consumo e preço) e entrega o custo total estimado com precisão de duas casas decimais.
+## 📋 About the Project
+This Python script was developed to simplify financial planning for road trips. Through a user-friendly terminal interface, the program requests essential data (distance, fuel consumption, and price) and delivers the total estimated cost with two-decimal precision.
 
-É um exemplo prático de como a programação pode resolver problemas cotidianos de forma rápida e eficaz.
+It is a practical example of how programming can solve everyday problems quickly and effectively.
 
-## 🛠️ Tecnologias
-- **Python 3.x**: Linguagem utilizada pela sua legibilidade e poder de processamento de dados.
+## 🛠️ Technologies
+- **Python 3.x**: Chosen for its readability and efficient data processing capabilities.
 
-## 🧠 Conceitos Aplicados
-Como entusiasta do código limpo e funcional, utilizei:
-- **Entrada Dinâmica de Dados**: Uso da função `input()` para capturar dados em tempo real.
-- **Casting de Tipos**: Conversão de strings para `float` para garantir cálculos matemáticos precisos.
-- **f-Strings & Formatação Numerica**: Uso de `f-strings` com a diretiva `:.2f` para exibir valores monetários no padrão correto (ex: R$ 100.00).
-- **Lógica Aritmética**: Implementação de fórmula para cálculo de consumo vs. custo.
+## 🧠 Core Concepts
+As a clean and functional code enthusiast, I implemented:
+- **Dynamic Data Entry**: Using the `input()` function to capture real-time user data.
+- **Type Casting**: Converting strings to `float` to ensure accurate mathematical calculations.
+- **f-Strings & Numerical Formatting**: Utilizing `f-strings` with the `:.2f` directive to display monetary values in the correct format (e.g., $ 100.00).
+- **Arithmetic Logic**: Implementation of formulas to calculate consumption vs. cost ratio.
 
-## 🚀 Como Executar
-1. Certifique-se de ter o Python instalado em sua máquina.
-2. Clone o repositório:
+## 🚀 How to Run
+1. Ensure you have Python installed on your machine.
+2. Clone the repository:
    ```bash
    git clone [https://github.com/xtheredviper/python-trip-calculator.git](https://github.com/xtheredviper/python-trip-calculator.git)
